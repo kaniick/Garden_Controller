@@ -4,6 +4,26 @@ Growtek is an automation system for my raised garden bed(s). It has the capabili
 the system to communicate with 'SARAH' I am able to allow the controller to act without human intervention. Additionally, I am able to
 control the system and monitor it remotely. The information/data the system generates is available for future projects.
 
+## System Capabilities
+
+The systems main capability is to monitor and water the raised garden bed.
+
+```
+ * Monitor atmospheric temperature and humidity
+ * Monitor soil moisture
+ * Control electronic solenoid Valve
+ * Control Fans inside control box
+```
+Additional features will be added at a later date.
+
+```
+ * Information Screen with System data
+ * Monitor UV Light
+ * Monitor Light and measure in Lux
+ * Add additional soil moisture sensors
+ * Add LED lights to system
+```
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
